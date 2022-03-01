@@ -2,9 +2,9 @@
 #include <iostream>
 #include "fun.h"
 
-using namespace std;
-
 int main() {
+    using std::cout;
+    using std::cin;
     int64_t x;
     uint16_t n;
     cout << "Enter args:\n";
