@@ -1,6 +1,7 @@
 // Copyright 2022 UNN-IASR
 #include "fun.h"
+#include "fun.cpp"
 
 int main() {
-    return 0;
+    return power(3,2);
 }
