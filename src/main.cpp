@@ -1,6 +1,5 @@
 // Copyright 2022 UNN-IASR
 #include "fun.h"
-#include "fun.cpp"
 
 using namespace std;
 
